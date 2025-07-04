@@ -14,9 +14,13 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 ---
 ## 📄 Fitur Utama
 ✅ **Trend OTD Per Bulan** — melihat tren OTD sejak Juli 2018 sampai Desember 2020
-✅ **Distribusi Lead Time** — distribusi waktu kirim per kategori hari  
-✅ **Daftar Order Terlambat** — detail order yang ≥14 hari  
-✅ **Ringkasan KPI** — total order Bulan Terakhir, OTD bulan terakhir, rata-rata OTD per Bulan 
+
+✅ **Distribusi Lead Time** — distribusi waktu kirim per kategori hari 
+
+✅ **Daftar Order Terlambat** — detail order yang ≥14 hari 
+
+✅ **Ringkasan KPI** — total order Bulan Terakhir, OTD bulan terakhir, rata-rata OTD per Bulan
+
 ✅ **Filter Periode** — pilih tahun untuk fokus analisis  
 
 ---
@@ -40,6 +44,7 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 ---
 ## 🎯 Rekomendasi untuk Perusahaan
 Berdasarkan temuan, berikut 2 rekomendasi utama untuk meningkatkan performa OTD:
+
 1️⃣ **Analisis Penyebab Keterlambatan**  
 Identifikasi akar penyebab order terlambat (stok, produksi, logistik) & buat rencana perbaikan pada titik yang paling sering bermasalah.
 
