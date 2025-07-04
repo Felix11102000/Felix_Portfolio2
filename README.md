@@ -55,7 +55,7 @@ Bangun sistem notifikasi untuk order yang mendekati batas SLA, agar tim dapat se
 
 ## 🔗 SQL Query
 Query lengkap yang digunakan untuk membersihkan & menghitung data tersedia di file berikut:  
-📄 [query.sql](./query.sql)
+📄 [Felix_orders.sql](./Felix_orders.sql)
 
 ---
 
