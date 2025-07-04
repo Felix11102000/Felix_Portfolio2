@@ -14,10 +14,10 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 ---
 
 ## 📄 Fitur Utama
-✅ **Trend OTD Per Bulan** — melihat tren OTD sejak Juli 2018  
+✅ **Trend OTD Per Bulan** — melihat tren OTD sejak Juli 2018 sampai Desember 2020
 ✅ **Distribusi Lead Time** — distribusi waktu kirim per kategori hari  
 ✅ **Daftar Order Terlambat** — detail order yang ≥14 hari  
-✅ **Ringkasan KPI** — total order, OTD bulan terakhir, rata-rata OTD  
+✅ **Ringkasan KPI** — total order Bulan Terakhir, OTD bulan terakhir, rata-rata OTD per Bulan 
 ✅ **Filter Periode** — pilih tahun untuk fokus analisis  
 
 ---
@@ -39,7 +39,7 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 
 ## 📈 Insights
 - Tren OTD cenderung stabil, namun masih rendah (sekitar 2–6%).
-- Mayoritas order dikirim ≤15 hari (59%), namun ada order dengan lead time >14 hari yang signifikan & butuh perhatian.
+- Mayoritas order dikirim direntang 15-30 hari sebesar (59%), namun ada order dengan lead time >30 hari yang signifikan & butuh perhatian.
 
 ---
 
@@ -53,16 +53,10 @@ Bangun sistem notifikasi untuk order yang mendekati batas SLA, agar tim dapat se
 
 ---
 
-## 🔗 SQL Query
-Query lengkap yang digunakan untuk membersihkan & menghitung data tersedia di file berikut:  
-📄 [Felix_orders.sql](./Felix_orders.sql)
-
----
-
 ## 📂 File
-- `OTD_Dashboard.pbix` — file Power BI dashboard
-- `query.sql` — query SQL untuk membersihkan & menyiapkan data
-- `README.md` — dokumentasi proyek
+- `Felix_orders.sql` — query SQL untuk Analisis data
+- `OTD_dashboard.pbix` — file Power BI dashboard
+- `OTD_Dashboard.png` — Dokumentasi Visualisasi Dashboard OTD
 
 ## 👨‍💻 Author
 📝 Felix Usmany  
