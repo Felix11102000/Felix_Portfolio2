@@ -54,9 +54,9 @@ Bangun sistem notifikasi untuk order yang mendekati batas SLA, agar tim dapat se
 ---
 
 ## 📂 File
-- `Felix_orders.sql` — query SQL untuk Analisis data
-- `OTD_dashboard.pbix` — file Power BI dashboard
-- `OTD_Dashboard.png` — Dokumentasi Visualisasi Dashboard OTD
+- [Felix_orders.sql](Felix_orders.sql) — query SQL untuk Analisis data
+- [OTD_dashboard.pbix](OTD_dashboard.pbix) — file Power BI dashboard
+- [OTD_Dashboard.png](OTD_Dashboard.png) — Dokumentasi Visualisasi Dashboard OTD
 
 ## 👨‍💻 Author
 📝 Felix Usmany  
