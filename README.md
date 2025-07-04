@@ -12,7 +12,6 @@ Tujuan utamanya adalah memberikan informasi cepat & mudah dipahami tentang:
 Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam meningkatkan performa OTD.
 
 ---
-
 ## 📄 Fitur Utama
 ✅ **Trend OTD Per Bulan** — melihat tren OTD sejak Juli 2018 sampai Desember 2020
 ✅ **Distribusi Lead Time** — distribusi waktu kirim per kategori hari  
@@ -21,14 +20,12 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 ✅ **Filter Periode** — pilih tahun untuk fokus analisis  
 
 ---
-
 ## 🛠️ Tools & Teknologi
 - 📂 **Database**: MySQL
 - 📊 **Visualisasi**: Power BI
 - 🔎 **Bahasa Query**: SQL
 
 ---
-
 ## 🚀 Cara Kerja
 1️⃣ Data order diambil dari database MySQL dengan query SQL.  
 2️⃣ Data dibersihkan & dihitung lead time serta OTD%.  
@@ -36,13 +33,11 @@ Dashboard ini membantu manajemen untuk mengambil keputusan berbasis data dalam m
 4️⃣ Dashboard interaktif dengan filter & indikator KPI.
 
 ---
-
 ## 📈 Insights
 - Tren OTD cenderung stabil, namun masih rendah (sekitar 2–6%).
 - Mayoritas order dikirim direntang 15-30 hari sebesar (59%), namun ada order dengan lead time >30 hari yang signifikan & butuh perhatian.
 
 ---
-
 ## 🎯 Rekomendasi untuk Perusahaan
 Berdasarkan temuan, berikut 2 rekomendasi utama untuk meningkatkan performa OTD:
 1️⃣ **Analisis Penyebab Keterlambatan**  
@@ -52,7 +47,6 @@ Identifikasi akar penyebab order terlambat (stok, produksi, logistik) & buat ren
 Bangun sistem notifikasi untuk order yang mendekati batas SLA, agar tim dapat segera menindaklanjuti sebelum terlambat.
 
 ---
-
 ## 📂 File
 - [Felix_orders.sql](Felix_orders.sql) — query SQL untuk Analisis data
 - [OTD_dashboard.pbix](OTD_dashboard.pbix) — file Power BI dashboard
